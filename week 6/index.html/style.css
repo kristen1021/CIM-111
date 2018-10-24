@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+
+color:blue
+font-weight: bold;
+text-decoration: underline;
+}
+
+#fontchange{
+  font-family: sans-serif;
+
+
+}
+#box{
+  background-color: pink;
+  width:200px;
+  height: 200px
+  padding:10px
+}
+
+nav ul li a{
+  text-decoration: none;
+
+}

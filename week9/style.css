@@ -1,0 +1,68 @@
+#header{ 
+  background-color: pink;
+  width:180px;
+  height: auto;
+  padding:10px;
+  display: inline-block;
+  font-family: sans-serif;
+}
+
+
+
+}
+}#fontchange{
+  font-family: sans-serif;
+
+main{
+  width: 80%;
+  height: auto;
+  background-color: white;
+  margin: 0 auto;
+
+}
+
+#box{
+  background-color: pink;
+  width:180px;
+  height: auto;
+  padding:10px;
+  display: inline-block;
+  font-family: sans-serif;
+}
+
+#changetext{
+color: grey;
+font-weight: bold;
+text-decoration: underline;
+}
+
+
+#container1{
+  width: 500px;
+  height: auto;
+  background-color: pink;
+  margin: 0 auto;
+}
+}
+
+
+#box2{
+  background color: pink;
+  width: 400px;
+  height: 300px;
+  padding: 10px;
+  margin-left: 20px
+  margin-top: 10 px
+}
+
+.columns{
+width:200px;
+height: 400px;
+background-color: aqua;
+display: inline-block;
+margin-right:
+}
+
+#column1{
+margin-top: -50px
+}

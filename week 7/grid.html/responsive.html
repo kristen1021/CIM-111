@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Responsive</title>
+        <style>
+        header, footer{
+          width: 80%;
+          height: 100px;
+          background-color: purple;
+        }
+        main{
+          width: 80%;
+          height: auto;
+          background-color: blue;
+          margin: 0 auto;
+        }
+            .col{
+              width: 49.5%;
+              height: 500px;
+              background-color: aqua;
+              display: inline-block;
+            }
+
+        @media only screen and (min-width: 960px){
+          background-color: green;
+
+        }
+        .col{
+          display: block;
+
+        }
+      </style>
+
+  </head>
+
+  <body>
+      <header></header>
+      <main>
+          <div class="col"></div>
+          <div class="col"></div>
+
+
+      </main>
+      <footer></footer>
+
+</body>
+
+</html>

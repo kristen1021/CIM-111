@@ -1,0 +1,46 @@
+#changetext{
+color:blue
+font-weight: bold;
+text-decoration: underline;
+}
+
+#fontchange{
+  font-family: sans-serif;
+
+#container1{
+  width: 500px;
+  height: auto;
+  background-color: cyan;
+  margin: 0 auto;
+}
+}
+#box{
+  background-color: pink;
+  width:180px;
+  height: auto;
+  padding:10px;
+  border: solid red 10px;
+
+  display: inline-block
+}
+
+#box2{
+  background color: pink;
+  width: 400px;
+  height: 300px;
+  padding: 10px;
+  margin-left: 20px
+  margin-top: 10 px
+}
+
+.columns{
+width:200px;
+height: 400px;
+background-color: aqua;
+display: inline-block;
+margin-right:
+}
+
+#column1{
+margin-top: -50px
+}

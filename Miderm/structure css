@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+  <html>
+<head> <title> Structure CSS </title>
+<link rel="stylesheet" href="css/style.css"
+</head>
+<body>
+<header>
+  <h1>Kristen Ragusa</h1>
+</header>
+
+<main>
+    <p>This text has a <span class="backgroungchange" id="change text">span tag </span> in it</p>
+
+
+<div id="box"> hello goodbye</div>
+<div id="container1">
+<div id=box">
+   <p> there is important info in this box <img src="/hw/resume/images/closehs.jpg" </p> </div>
+
+<div id="box2"
+  <div class="columns"></div>
+  <div class="columns"></div>
+
+</main>
+
+<footer></footer>
+
+</body>
+  </html>
