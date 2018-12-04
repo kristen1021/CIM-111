@@ -1,0 +1,14 @@
+#grid{
+display: grid;
+grid-template-areas: "header""main""footer";
+grid-template-rows: auto;
+grid-template-columns: auto;
+
+
+}
+#grid2{
+
+
+
+  
+}

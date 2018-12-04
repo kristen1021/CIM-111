@@ -1,0 +1,138 @@
+body{
+	background-color: #F2F2F2;
+
+}
+
+header{
+  background-color: pink;
+  width: 100%;
+  height: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+
+
+h1{
+  display: grid;
+  background-color: pink;
+  width:500px;
+  height: auto;
+  padding:10px;
+  font-family: sans-serif;
+  margin: auto;
+}
+
+h2{
+  display: grid;
+  background-color: pink;
+  width:500px;
+  height: auto;
+  padding:10px;
+  font-family: sans-serif;
+  margin: auto;
+}
+
+td.resumecol{
+  width:300px;
+}
+
+button.showtheater{
+    display: none;
+}
+
+button.showfilm{
+    display: none;
+}
+
+button.showeducation{
+    display: none;
+}
+
+button.showskills{
+    display: none;
+}
+
+
+#footer{
+  background-color: pink;
+  width:500px;
+  height: auto;
+  padding:10px;
+  font-family: sans-serif;
+  margin: auto;
+}
+
+nav {
+  width: 600px;
+	margin: 0 auto;
+}
+
+nav ul li {
+    display: inline-block;
+    background-color: pink;
+    width:85px;
+	height: auto;
+	padding:8px;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+nav ul li a{
+  text-decoration: none;
+	color: white;
+}
+
+
+#mine {
+    text-align: center;
+}
+
+#mine2 {
+    text-align: center;
+	padding-left:10%;
+	padding-right:10%;
+}
+
+#pink{
+  display:inline-block;
+  background-color: pink;
+  width:85px;
+  height: auto;
+  padding:8px;
+  font-family: sans-serif;
+}
+
+#white{
+  display:inline-block;
+  width:85px;
+  height: auto;
+  padding:8px;
+  font-family: sans-serif;
+}
+
+main{
+  width: 70%;
+  height: auto;
+  margin: 0 auto;
+}
+
+
+#box{
+  background-color: pink;
+  width:180px;
+  height: auto;
+  padding:10px;
+  display: inline-block;
+  font-family: sans-serif;
+}
+
+#changetext{
+color: green;
+    text-align: center;
+text-decoration: underline;
+}
+
+aside{
+margin-right: 100;
+}

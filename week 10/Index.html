@@ -1,0 +1,59 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>Lettering</title>
+<meta name=”description” content= "A simple how to drawring for a halloween cat in time for the holidays.">
+<meta name="keywords" content="how to""halloween""cat""drawing">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.2/dist/jquery.fancybox.min.css">
+
+      <style>
+          .char1{
+            color:red;
+          }
+
+          .char2{
+            color:green;
+          }
+          .char3{
+            color:blue;
+          }
+          .char4{
+            color:purple;
+          }
+          .word6{
+            color: orange;
+            font-size: 30px;
+          }
+
+          @import url('https://fonts.googleapis.com/css?family=Spicy+Rice');
+        
+      </style>
+</head>
+
+  <body>
+<div id="letters"> How to draw a Halloween themed Cat </div>
+    <p id="wordsplit">Step by basic step </p>
+
+
+
+        <a data-fancybox="gallery" href=><img src="small_1.jpg"></a>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src= "javascript/jquery.lettering.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.2/dist/jquery.fancybox.min.js">
+
+        </script>
+
+            <script>
+                $(document).ready(function)(){
+                    $("#letters").lettering()
+                    $("wordsplit").lettering("words");
+                    $("sentence").lettering("lines");
+                });
+
+            </script>
+
+
+</body>
+
+</html>
