@@ -120,11 +120,12 @@ main{
 
 #box{
   background-color: pink;
-  width:180px;
+  width:450px;
   height: auto;
   padding:10px;
   display: inline-block;
   font-family: sans-serif;
+	align-items: center;
 }
 
 #changetext{
